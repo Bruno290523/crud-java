@@ -1,0 +1,4 @@
+1. Abrir el proyecto con Netbeans
+2. Click derecho en Libraries y selecciona "Add JAR/Folder" y luego "sqlite-jdbc-3.8.11.2" que está en la carpeta crud-java
+3. En "conexion.java" modifica la ruta "C:/Users/Bruno/Desktop/Proyectos/SistemaJava/db/sistema.s3db"
+4. Click derecho en "frmEmpleados.java" y selecciona "Runfile"
